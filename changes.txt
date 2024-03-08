@@ -1,0 +1,3 @@
+PA1: made index.html
+PA2: add base html elements
+PA3: added Contact section
